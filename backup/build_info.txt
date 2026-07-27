@@ -1,0 +1,9 @@
+=== POCO X3 Pro (vayu) Build Info ===
+Date: 
+google/raven/raven:13/TP1A.221005.002/9012097:user/release-keys
+Model: M2102J20SG
+Device: vayu
+MIUI: V140
+Android: 13
+Region: CN
+Kernel: 4.14.356+8-perf

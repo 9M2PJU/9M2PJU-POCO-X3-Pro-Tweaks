@@ -1,0 +1,12 @@
+# Local-only files (never pushed to GitHub)
+AGENTS.md
+
+# Backup snapshots (regenerated per device, not shared)
+backup/removed_packages.txt
+backup/*_after.txt
+backup/removed_diff.txt
+
+# OS/editor cruft
+.DS_Store
+*.swp
+*~
